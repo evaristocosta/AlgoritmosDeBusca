@@ -24,3 +24,15 @@ A partir de um estado inicial, o objetivo é alcançar outro com o mínimo de mo
 ![estados.png](estados.png)
 
 Veja o código completo em `execucao.py` ou pelo Jupyter Notebook com uma explicação bem detalhada.
+
+## Origem
+
+Esses algoritmos foram desenvolvidos durante a disciplina de Inteligência Artificial ministrada durante o mestrado do PPGCC de Ponta Grossa.
+
+## Referências
+
+RUSSELL, S; NORVIG, P. **Artificial Intelligence:** A Modern Approach. 3. ed. New Jersey: Prentice Hall, 2009.
+
+STATHIS, P. **8-puzzle.** 2017. Disponível em: [https://github.com/speix/8-puzzle-solver](https://github.com/speix/8-puzzle-solver). Acesso em: 27 mar. 2021.
+
+CORRALES, G. A. de M. **SEARCH ALGORITHM FOR 8 PUZZLE GAME.** 2018. Disponível em: [https://github.com/memoodm/AI-8Puzzle-SearchAlgorithm](https://github.com/memoodm/AI-8Puzzle-SearchAlgorithm). Acesso em: 27 mar. 2021.
